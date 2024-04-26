@@ -14,7 +14,7 @@ Not working code yet.
 * TODO Add CodePipeline
 * TODO Add CodeBuild
 * TODO trigger new build when ExifTool updates
-* TODO Trigger new build when Perl Maint release updates
+* TODO Trigger new build when a new Perl Maint version is released
 * TODO Trigger new build when AWS Lambda runtime image updates
 * TODO Automatically test new build
 * TODO Automatiocally deploy new build when test is succesful
