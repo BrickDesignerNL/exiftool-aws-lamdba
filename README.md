@@ -8,8 +8,8 @@ Don't expect working code.
 * Automatically take the latest 3.12 release of the Python Lambda image
 * Use ARM architecture instead of Intel architecture for Lambda
 ## TODO
-Things I like to add
-* Add a SQS queue to ensure event delivery
+Things I like to add / be added
+* Add a SQS queue + dead letter qieue
 * Make code automatically take layest stable version of ExifTool
 * Make code automatically take layest stable Perl Maint
 * Make code automatically pick latest stable Lambda Python image and update the template accordingly - for now now it only takes the latest 3.12 version.
