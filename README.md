@@ -5,7 +5,7 @@ Not working code yet.
 * Upgrade to the latest Lambda runtime.
 * Upgrade to the latest version of ExifTool.
 * Use ARM architecture instead of Intel architecture for Lambda
-* TODO Add an SQS queue to ensure event delivery.
+* TODO Add a SQS queue to ensure event delivery.
 
 ## Exiftool Lambda
 
