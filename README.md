@@ -7,6 +7,7 @@ Don't expect working code.
 * Upgrade to Python version 3.12
 * Automatically take the latest 3.12 release of the Python Lambda image
 * Use ARM architecture instead of Intel architecture for Lambda
+* Switched from yum to dnf
 ## TODO
 Things I like to add / be added
 * Add a SQS queue + dead letter queue
