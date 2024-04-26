@@ -5,7 +5,7 @@ ARG BIN_PATH
 ARG LAYER_PATH
 
 # Install build tools
-RUN dnf install -y unzip
+RUN yum install -y unzip
 
 # Install test dependencies
 COPY requirements_test.txt ./
