@@ -1,7 +1,11 @@
 # About this fork
 Work in progress.
 Not working code yet.
-Intention os to upgrade to latest Lambda runtime & latest version of ExifTool. Using ARM instead of Intel architecture and adding an SQS queue to ensure event delivery.
+
+* Upgrade to the latest Lambda runtime.
+* Upgrade to the latest version of ExifTool.
+* Use ARM architecture instead of Intel architecture for Lambda
+* TODO Add an SQS queue to ensure event delivery.
 
 ## Exiftool Lambda
 
