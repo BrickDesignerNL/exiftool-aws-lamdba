@@ -1,4 +1,4 @@
-# About thos fork
+# About this fork
 Work in progress.
 Not working code yet.
 Intention os to upgrade to layest Lambda runtime & latest version of ExifTool. And adding an SQS queue to ensure event delivery.
