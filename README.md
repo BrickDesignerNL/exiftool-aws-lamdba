@@ -9,9 +9,9 @@ Don't expect working code.
 * Use ARM architecture instead of Intel architecture for Lambda
 ## TODO
 Things I like to add / be added
-* Add a SQS queue + dead letter qieue
-* Make code automatically take layest stable version of ExifTool
-* Make code automatically take layest stable Perl Maint
+* Add a SQS queue + dead letter queue
+* Make code automatically take latest stable version of ExifTool
+* Make code automatically take latest stable Perl Maint
 * Make code automatically pick latest stable Lambda Python image and update the template accordingly - for now now it only takes the latest 3.12 version.
 * Add CodePipeline
 * Add CodeBuild
