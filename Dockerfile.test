@@ -1,11 +1,11 @@
-FROM public.ecr.aws/lambda/python:3.9
+FROM public.ecr.aws/lambda/python:3.12
 
 # Setup defined in .docker.env
 ARG BIN_PATH
 ARG LAYER_PATH
 
 # Install build tools
-RUN yum install -y unzip
+RUN dnf install -y unzip
 
 # Install test dependencies
 COPY requirements_test.txt ./
