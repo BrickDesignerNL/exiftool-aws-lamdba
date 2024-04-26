@@ -8,8 +8,8 @@ Not working code yet.
 * TODO Add a SQS queue to ensure event delivery
 * TODO Add CodePipeline
 * TODO Add CodeBuild
-* TODO Trigger new build when ExofTool updates
-* TODO Trigger new build when Main Perl updates
+* TODO Trigger new build when ExifTool updates
+* TODO Trigger new build when Perl Maint release updates
 * TODO Trigger new build when AWS Lambda runtime image updates
 * TODO test new build
 * TODO automatiocally deploy new build when test is succesful
