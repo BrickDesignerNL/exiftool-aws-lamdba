@@ -7,17 +7,17 @@ Not working code yet.
 * Upgrade to Python version 3.12
 * Automatically take the latest 3.12 release of the Python Lambda image
 * Use ARM architecture instead of Intel architecture for Lambda
-* TODO add a SQS queue to ensure event delivery
-* TODO make code automatically take layest stable version of ExifTool
-* TODO make code automatically take layest stable Perl Maint
-* TODO make code automatically pick latest stable Lambda Python image and update the template accordingly - for now now it only takes the latest 3.12 version.
-* TODO add CodePipeline
-* TODO add CodeBuild
+* TODO Add a SQS queue to ensure event delivery
+* TODO Make code automatically take layest stable version of ExifTool
+* TODO Make code automatically take layest stable Perl Maint
+* TODO Make code automatically pick latest stable Lambda Python image and update the template accordingly - for now now it only takes the latest 3.12 version.
+* TODO Add CodePipeline
+* TODO Add CodeBuild
 * TODO trigger new build when ExifTool updates
-* TODO trigger new build when Perl Maint release updates
-* TODO trigger new build when AWS Lambda runtime image updates
-* TODO test new build
-* TODO automatiocally deploy new build when test is succesful
+* TODO Trigger new build when Perl Maint release updates
+* TODO Trigger new build when AWS Lambda runtime image updates
+* TODO Automatically test new build
+* TODO Automatiocally deploy new build when test is succesful
 
 ## Exiftool Lambda
 
