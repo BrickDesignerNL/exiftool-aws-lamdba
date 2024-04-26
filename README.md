@@ -8,7 +8,7 @@ Not working code yet.
 * TODO Add a SQS queue to ensure event delivery
 * TODO Add CodePipeline
 * TODO Add CodeBuild
-* TODO Trigger new build when ExifTool updates
+* TODO Trigger new build when ExifTool updates based on https://exiftool.org/ver.txt
 * TODO Trigger new build when Perl Maint release updates
 * TODO Trigger new build when AWS Lambda runtime image updates
 * TODO test new build
