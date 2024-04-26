@@ -7,7 +7,7 @@ Not working code yet.
 * Upgrade to Python version 3.12
 * Automatically take the latest 3.12 release of the Python Lambda image
 * Use ARM architecture instead of Intel architecture for Lambda
-* TODO Add a SQS queue to ensure event delivery
+* TODO add a SQS queue to ensure event delivery
 * TODO make code automatically take layest stable version of ExifTool
 * TODO make code automatically take layest stable Perl Maint
 * TODO make code automatically pick latest stable Lambda Python image and update the template accordingly - for now now it only takes the latest 3.12 version.
