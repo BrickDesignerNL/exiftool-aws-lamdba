@@ -1,7 +1,7 @@
 # About this fork
 Work in progress.
 Not working code yet.
-Intention os to upgrade to layest Lambda runtime & latest version of ExifTool. And adding an SQS queue to ensure event delivery.
+Intention os to upgrade to latest Lambda runtime & latest version of ExifTool. Ising ARM instead of Intel architecture and adding an SQS queue to ensure event delivery.
 
 ## Exiftool Lambda
 
