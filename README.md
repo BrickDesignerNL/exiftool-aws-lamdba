@@ -15,7 +15,7 @@ Things I like to add / be added
 * Make code automatically take latest stable Perl Maint (low prio: [ExifTool runs on any version higher than 5.004](https://web.mit.edu/graphics/src/Image-ExifTool-6.99/html/index.html#system) : [May 15, 1997](https://perldoc.perl.org/perl5004delta#HISTORY))
 * Make code automatically pick latest stable Lambda Python image and update the template accordingly - for now now it only takes the latest 3.12 version.
 * Add CodePipeline
-* Add CodeBuild
+* Add CodeBuild https://docs.aws.amazon.com/codebuild/latest/userguide/sample-docker-section.html
 * Trigger new build when ExifTool updates
 * Trigger new build when a new Perl Maint version is released
 * Trigger new build when AWS Lambda runtime image updates
