@@ -10,7 +10,7 @@ Don't expect working code.
 ## TODO
 Things I like to add / be added
 * Add a SQS queue + dead letter queue
-* Make code automatically take latest stable version of ExifTool
+* Make code automatically take latest stable version of ExifTool based on https://exiftool.org/ver.txt
 * Make code automatically take latest stable Perl Maint
 * Make code automatically pick latest stable Lambda Python image and update the template accordingly - for now now it only takes the latest 3.12 version.
 * Add CodePipeline
