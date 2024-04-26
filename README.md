@@ -2,10 +2,17 @@
 Work in progress.
 Not working code yet.
 
-* Upgrade to the latest Lambda runtime.
-* Upgrade to the latest version of ExifTool.
+* Upgrade to the latest Lambda runtime
+* Upgrade to the latest version of ExifTool
 * Use ARM architecture instead of Intel architecture for Lambda
-* TODO Add a SQS queue to ensure event delivery.
+* TODO Add a SQS queue to ensure event delivery
+* TODO Add CodePipeline
+* TODO Add CodeBuild
+* TODO Trigger new build when ExofTool updates
+* TODO Trigger new build when Main Perl updates
+* TODO Trigger new build when AWS Lambda runtime image updates
+* TODO test new build
+* TODO automatiocally deploy new build when test is succesful
 
 ## Exiftool Lambda
 
