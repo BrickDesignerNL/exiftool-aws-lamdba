@@ -1,23 +1,25 @@
 # About this fork
 Work in progress.
-Not working code yet.
-
+Don't expect working code.
+## Done
 * Upgrade to ExifTool version 12.84
 * Upgrade to Perl Maint version 5.38.2
 * Upgrade to Python version 3.12
 * Automatically take the latest 3.12 release of the Python Lambda image
 * Use ARM architecture instead of Intel architecture for Lambda
-* TODO Add a SQS queue to ensure event delivery
-* TODO Make code automatically take layest stable version of ExifTool
-* TODO Make code automatically take layest stable Perl Maint
-* TODO Make code automatically pick latest stable Lambda Python image and update the template accordingly - for now now it only takes the latest 3.12 version.
-* TODO Add CodePipeline
-* TODO Add CodeBuild
-* TODO trigger new build when ExifTool updates
-* TODO Trigger new build when a new Perl Maint version is released
-* TODO Trigger new build when AWS Lambda runtime image updates
-* TODO Automatically test new build
-* TODO Automatiocally deploy new build when test is succesful
+## TODO
+Things I like to add
+* Add a SQS queue to ensure event delivery
+* Make code automatically take layest stable version of ExifTool
+* Make code automatically take layest stable Perl Maint
+* Make code automatically pick latest stable Lambda Python image and update the template accordingly - for now now it only takes the latest 3.12 version.
+* Add CodePipeline
+* Add CodeBuild
+* Trigger new build when ExifTool updates
+* Trigger new build when a new Perl Maint version is released
+* Trigger new build when AWS Lambda runtime image updates
+* Automatically test new build
+* Automatiocally deploy new build when test is succesful
 
 ## Exiftool Lambda
 
